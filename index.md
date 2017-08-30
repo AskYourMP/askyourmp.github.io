@@ -30,7 +30,7 @@ Your MP isn't responding (or is a minister and can't ask questions)? Well then s
 
 Now there is a possibility that your MP might put in the question and it might not get selected in the random ballot. Or the question might get answered but the MP might forget to inform you. In which case, at the end of the next session, just do a keyword search on the Lok Sabha / Rajya Sabha website. You will instantly find out if it was answered. If it was in the news recently, there is a high possibility there is a question on it.
 
-## More Info
+## Things to remember
 
 * To know more about what are Parliamentary questions, why it's the best thing ever and how it can be used, read [this](https://www.newslaundry.com/2017/06/19/lok-sabha-question-hour-parliament).
 * Most MPs are hungry for questions they can put in Parliament. It increases their performance rating & corridor credentials.
